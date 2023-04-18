@@ -127,3 +127,11 @@ button,
 [type="submit"] {
   appearance: none;
 }
+
+ul,
+li {
+  text-decoration: none;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}

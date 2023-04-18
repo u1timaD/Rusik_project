@@ -1,0 +1,9 @@
+.header {
+  background-color: rebeccapurple;
+}
+
+.header__container {
+  display: flex;
+  justify-content: space-between;
+  max-height: 107px;
+}

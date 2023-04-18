@@ -1,0 +1,15 @@
+.nav {
+  display: flex;
+  // justify-content: center;
+  align-items: center;
+}
+
+.nav__list {
+  display: flex;
+  max-height: 107px;
+}
+
+.nav__item {
+  max-width: 50px;
+  max-height: 50px;
+}
